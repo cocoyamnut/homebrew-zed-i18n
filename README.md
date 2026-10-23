@@ -1,10 +1,14 @@
 # homebrew-zed-i18n
 
-Homebrew tap for [Zed i18n](https://github.com/LI-NA/zed-i18n), a localized build of the Zed editor.
+> Setup in progress: inherited package definitions still reference the original LI-NA release. They do not install cocoyamnut builds yet. Updated definitions will be generated only after the cocoyamnut release artifacts and checksums are verified.
+
+This repository is a fork of [LI-NA/homebrew-zed-i18n](https://github.com/LI-NA/homebrew-zed-i18n). Original licensing and attribution are preserved.
+
+Homebrew tap for [Zed i18n](https://github.com/cocoyamnut/zed-i18n), a localized build of the Zed editor.
 
 For project details, release notes, source code, and issue tracking, please use the main repository:
 
-https://github.com/LI-NA/zed-i18n
+https://github.com/cocoyamnut/zed-i18n
 
 ## License
 
